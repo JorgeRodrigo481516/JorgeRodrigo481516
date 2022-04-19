@@ -11,7 +11,7 @@
 
 - :computer::calling: Web Developer focused on front-end 
 
-- :books: I’m currently learning Webpack
+- :books: I’m currently learning **Webpack**
 
 <!-- - 👨‍💻 All of my projects are available at  -->
 
