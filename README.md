@@ -1,12 +1,12 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">, I'm Jorge Rodrigo :wink:</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">, I'm Jorge Rodrigo :wink: <img src="https://komarev.com/ghpvc/?username=JorgeRodrigo481516&color=0F51FF" align="right" alt="Profile views" /></h1>
 <!-- <img align="right" height="500em" src=""/> -->
 <br>
 
 <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=JorgeRodrigo481516&show_icons=true&theme=algolia" alt="Jorge Rodrigo's stats"/> 
 <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRodrigo481516&layout=compact&theme=algolia" alt="Jorge Rodrigo's most languages"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JorgeRodrigo481516&color=0F51FF" alt="Profile views" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=JorgeRodrigo481516&color=0F51FF" alt="Profile views" /> </p> -->
 
 
 - :computer::calling: Web Developer focused on front-end 
@@ -36,7 +36,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;
 
-<br><br>
+<br>
 
 ## :mag_right: Social Links
 
