@@ -3,8 +3,8 @@
 <!-- <img align="right" height="500em" src=""/> -->
 <br>
 
-<img align="right" width="530em" src="https://github-readme-stats.vercel.app/api?username=JorgeRodrigo481516&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/> 
-<img align="right" width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRodrigo481516&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img align="right" width="480em" src="https://github-readme-stats.vercel.app/api?username=JorgeRodrigo481516&show_icons=true&theme=vision-friendly-dark" alt="Jorge Rodrigo's stats"/> 
+<img align="right" width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRodrigo481516&layout=compact&theme=vision-friendly-dark" alt="Jorge Rodrigo's most languages"/>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=JorgeRodrigo481516&color=yellow" alt="Profile views" /> </p> -->
 
