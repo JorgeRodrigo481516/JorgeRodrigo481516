@@ -6,10 +6,8 @@
 <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=JorgeRodrigo481516&show_icons=true&theme=algolia" alt="Jorge Rodrigo's stats"/> 
 <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRodrigo481516&layout=compact&theme=algolia" alt="Jorge Rodrigo's most languages"/>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=JorgeRodrigo481516&color=yellow" alt="Profile views" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JorgeRodrigo481516&color=0F51FF" alt="Profile views" /> </p>
 
-
-<!-- <a href="https://br.linkedin.com/in/jorge-rodrigo-rosario-almeida?trk=profile-badge">Jorge Rodrigo Rosario de Almeida</a> -->
 
 - :computer::calling: Web Developer focused on front-end 
 
@@ -43,7 +41,7 @@
 ## :mag_right: Social Links
 
 <p align="left">
-  <a href="www.linkedin.com/in/jorge-rodrigo-rosario-almeida" alt="Linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/jorge-rodrigo-rosario-almeida/" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=0F41FF&link=https://www.linkedin.com/in/jorge-rodrigo-rosario-almeida">
   </a>
   
