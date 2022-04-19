@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">, I'm Jorge Rodrigo :wink: <img src="https://komarev.com/ghpvc/?username=JorgeRodrigo481516&color=0F51FF" align="right" alt="Profile views" /></h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">, I'm Jorge Rodrigo <img src="https://komarev.com/ghpvc/?username=JorgeRodrigo481516&color=0F51FF" align="right" alt="Profile views" /></h1>
 <!-- <img align="right" height="500em" src=""/> -->
 <br>
 
