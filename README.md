@@ -1,17 +1,14 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">, I'm Jorge Rodrigo <img src="https://komarev.com/ghpvc/?username=JorgeRodrigo481516&color=0F51FF" align="right" alt="Profile views" /></h1>
-<!-- <img align="right" height="500em" src=""/> -->
+<!-- Reset counter: https://yhype.me/ghpvc   Obs.: DON'T DO THAT-->
 <br>
 
 <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=JorgeRodrigo481516&show_icons=true&theme=algolia" alt="Jorge Rodrigo's stats"/> 
 <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRodrigo481516&layout=compact&theme=algolia" alt="Jorge Rodrigo's most languages"/>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=JorgeRodrigo481516&color=0F51FF" alt="Profile views" /> </p> -->
-
-
 - :computer::calling: Web Developer focused on front-end 
 
-- :books: I’m currently learning **Webpack**
+- :books: I’m currently learning **ReactJS**
 
 <!-- - 👨‍💻 All of my projects are available at  -->
 
@@ -26,11 +23,12 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass/Scss](https://img.shields.io/badge/-Sass/Scss-05122A?style=flat&logo=sass)&nbsp;
+![PostCSS](https://img.shields.io/badge/-PostCSS-05122A?style=flat&logo=postcss&logoColor=DD3A0A)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
 ![Babel](https://img.shields.io/badge/-Babel-05122A?style=flat&logo=babel)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress&logoColor=21759B)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
