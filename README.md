@@ -22,7 +22,7 @@
 ![JavaScript(ES6+)](https://img.shields.io/badge/-JavaScript(ES6+)-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Sass/Scss](https://img.shields.io/badge/-Sass/Scss-05122A?style=flat&logo=sass)&nbsp;
+![Sass/SCSS](https://img.shields.io/badge/-Sass/SCSS-05122A?style=flat&logo=sass)&nbsp;
 ![PostCSS](https://img.shields.io/badge/-PostCSS-05122A?style=flat&logo=postcss&logoColor=DD3A0A)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
 ![Babel](https://img.shields.io/badge/-Babel-05122A?style=flat&logo=babel)&nbsp;
