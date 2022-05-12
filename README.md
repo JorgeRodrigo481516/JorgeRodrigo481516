@@ -1,5 +1,7 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">, I'm Jorge Rodrigo <img src="https://komarev.com/ghpvc/?username=JorgeRodrigo481516&color=0F51FF" align="right" alt="Profile views" /></h1>
+<h1 align="left">Hi <img src="https://user-images.githubusercontent.com/79382459/168177041-8b887454-5831-4692-b454-b8a8ba338092.gif" width="40px">, I'm Jorge Rodrigo <img src="https://komarev.com/ghpvc/?username=JorgeRodrigo481516&color=0F51FF" align="right" alt="Profile views" /></h1>
+
+
 <!-- Reset counter: https://yhype.me/ghpvc   Obs.: DON'T DO THAT-->
 <br>
 
@@ -56,6 +58,8 @@
     <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&color=0F41FF&link=https://"/>
   </a> -->
 </p>
+
+![](https://hit.yhype.me/github/profile?user_id=79382459)
 
 <!--
 **JorgeRodrigo481516/JorgeRodrigo481516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
