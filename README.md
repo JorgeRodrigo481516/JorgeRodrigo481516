@@ -8,7 +8,7 @@
 
 - :computer::calling: Web Developer focused on front-end 
 
-- :books: I’m currently learning **ReactJS**
+- :books: I’m currently learning **React JS**
 
 <!-- - 👨‍💻 All of my projects are available at  -->
 
