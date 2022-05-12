@@ -18,8 +18,8 @@
 
 ## :bulb: Skills and Tools 🛠
 
-![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
-![JavaScript(ES6+)](https://img.shields.io/badge/-JavaScript(ES6+)-05122A?style=flat&logo=javascript)&nbsp;
+![React JS](https://img.shields.io/badge/-React%20JS-05122A?style=flat&logo=react)&nbsp;
+![JavaScript (ES6+)](https://img.shields.io/badge/-JavaScript%20(ES6+)-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass/SCSS](https://img.shields.io/badge/-Sass/SCSS-05122A?style=flat&logo=sass)&nbsp;
