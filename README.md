@@ -26,8 +26,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass/SCSS](https://img.shields.io/badge/-Sass/SCSS-05122A?style=flat&logo=sass)&nbsp;
 ![PostCSS](https://img.shields.io/badge/-PostCSS-05122A?style=flat&logo=postcss&logoColor=DD3A0A)&nbsp;
+![Create React App](https://img.shields.io/badge/-Create%20React%20App-05122A?style=flat&logo=create-react-app)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
 ![Babel](https://img.shields.io/badge/-Babel-05122A?style=flat&logo=babel)&nbsp;
+![ESlint](https://img.shields.io/badge/-ESlint-05122A?style=flat&logo=eslint)&nbsp;
+![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress&logoColor=21759B)&nbsp;
