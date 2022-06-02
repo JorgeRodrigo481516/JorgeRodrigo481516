@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi <img src="https://user-images.githubusercontent.com/79382459/168177041-8b887454-5831-4692-b454-b8a8ba338092.gif" width="40px">, I'm Jorge Rodrigo <img src="https://komarev.com/ghpvc/?username=JorgeRodrigo481516&color=0F51FF" align="right" alt="Profile views" /></h1>
+<h1 align="left">Hi <img width="5%" src="https://user-images.githubusercontent.com/79382459/168177041-8b887454-5831-4692-b454-b8a8ba338092.gif" >, I'm Jorge Rodrigo <img src="https://komarev.com/ghpvc/?username=JorgeRodrigo481516&color=0F51FF" align="right" alt="Profile views" /></h1>
 
 
 <!-- Reset counter: https://yhype.me/ghpvc   Obs.: DON'T DO THAT-->
