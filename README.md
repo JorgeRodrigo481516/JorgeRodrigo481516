@@ -10,11 +10,11 @@
 
 - :computer::calling: Web Developer focused on front-end 
 
-- :books: I’m currently learning **React JS**
-
-<!-- - 👨‍💻 All of my projects are available at  -->
+- :books: I’m currently learning **React JS + Redux**
 
 - :coffee: Come with me to develop a web application using **JavaScript, HTML, CSS**
+
+- 👨‍💻 All my main projects are available [HERE](https://jorgerodrigo481516.github.io/) 
 
 <br><br>
 
