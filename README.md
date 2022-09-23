@@ -10,7 +10,7 @@
 
 - :computer::calling: Web Developer focused on front-end 
 
-- :books: I’m currently learning **React JS + Redux**
+- :books: I’m currently learning **D3.js & JSON APIs**
 
 - :coffee: Come with me to develop a web application using **JavaScript, HTML, CSS**
 
