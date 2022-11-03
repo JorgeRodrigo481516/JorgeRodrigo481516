@@ -10,7 +10,7 @@
 
 - :computer::calling: Web Developer focused on front-end 
 
-- :books: I’m currently learning **D3.js & JSON APIs**
+- :books: I’m currently learning **Styled Components & React-Router**
 
 - :coffee: Come with me to develop a web application using **JavaScript, HTML, CSS**
 
@@ -25,7 +25,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass/SCSS](https://img.shields.io/badge/-Sass/SCSS-05122A?style=flat&logo=sass)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![PostCSS](https://img.shields.io/badge/-PostCSS-05122A?style=flat&logo=postcss&logoColor=DD3A0A)&nbsp;
+![D3.js](https://img.shields.io/badge/-D3.js-05122A?style=flat&logo=d3.js)&nbsp;
 ![Create React App](https://img.shields.io/badge/-Create%20React%20App-05122A?style=flat&logo=create-react-app)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
 ![Babel](https://img.shields.io/badge/-Babel-05122A?style=flat&logo=babel)&nbsp;
