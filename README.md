@@ -10,9 +10,9 @@
 
 - :computer::calling: Web Developer focused on front-end 
 
-- :books: I’m currently learning **Styled Components & React-Router**
+- :books: I’m currently learning **Jest**
 
-- :coffee: Come with me to develop a web application using **JavaScript, HTML, CSS**
+- :coffee: Come with me to develop a web application using **ReactJs, TailwindCSS, and Vite**
 
 - 👨‍💻 All my main projects are available [HERE](https://jorgerodrigo481516.github.io/) 
 
@@ -21,26 +21,27 @@
 ## :bulb: Skills and Tools 🛠
 
 ![React JS](https://img.shields.io/badge/-React%20JS-05122A?style=flat&logo=react)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![Sass/SCSS](https://img.shields.io/badge/-Sass/SCSS-05122A?style=flat&logo=sass)&nbsp;
 ![JavaScript (ES6+)](https://img.shields.io/badge/-JavaScript%20(ES6+)-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Sass/SCSS](https://img.shields.io/badge/-Sass/SCSS-05122A?style=flat&logo=sass)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![PostCSS](https://img.shields.io/badge/-PostCSS-05122A?style=flat&logo=postcss&logoColor=DD3A0A)&nbsp;
 ![D3.js](https://img.shields.io/badge/-D3.js-05122A?style=flat&logo=d3.js)&nbsp;
-![Create React App](https://img.shields.io/badge/-Create%20React%20App-05122A?style=flat&logo=create-react-app)&nbsp;
-![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
-![Babel](https://img.shields.io/badge/-Babel-05122A?style=flat&logo=babel)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
 ![ESlint](https://img.shields.io/badge/-ESlint-05122A?style=flat&logo=eslint)&nbsp;
 ![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress&logoColor=21759B)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;
+<!-- ![Create React App](https://img.shields.io/badge/-Create%20React%20App-05122A?style=flat&logo=create-react-app)&nbsp;
+![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
+![Babel](https://img.shields.io/badge/-Babel-05122A?style=flat&logo=babel)&nbsp; -->
+<!-- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress&logoColor=21759B)&nbsp; -->
 
 <br>
 
