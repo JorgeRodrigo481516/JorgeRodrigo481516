@@ -8,11 +8,11 @@
 <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=JorgeRodrigo481516&show_icons=true&theme=algolia" alt="Jorge Rodrigo's stats"/> 
 <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRodrigo481516&layout=compact&theme=algolia" alt="Jorge Rodrigo's most languages"/>
 
-- :computer::calling: Web Developer focused on front-end 
+- :computer::calling: Web Developer and Computer Scientist
 
-- :books: I’m currently learning **Jest**
+- :books: I’m currently learning at **FreeCodeCamp and UFF**
 
-- :coffee: Come with me to develop a web application using **ReactJs, TailwindCSS, and Vite**
+- :coffee: Come with me to develop using **Javascript or Python**
 
 - 👨‍💻 All my main projects are available [HERE](https://jorgerodrigo481516.github.io/) 
 
@@ -20,6 +20,7 @@
 
 ## :bulb: Skills and Tools 🛠
 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![React JS](https://img.shields.io/badge/-React%20JS-05122A?style=flat&logo=react)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![Sass/SCSS](https://img.shields.io/badge/-Sass/SCSS-05122A?style=flat&logo=sass)&nbsp;
